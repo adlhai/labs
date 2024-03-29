@@ -1,0 +1,10 @@
+C:\Users\Аделина\source\repos\labss\bin\Debug\labss.exe.config
+C:\Users\Аделина\source\repos\labss\bin\Debug\labss.exe
+C:\Users\Аделина\source\repos\labss\bin\Debug\labss.pdb
+C:\Users\Аделина\source\repos\labss\obj\Debug\labss.csproj.AssemblyReference.cache
+C:\Users\Аделина\source\repos\labss\obj\Debug\labss.Form1.resources
+C:\Users\Аделина\source\repos\labss\obj\Debug\labss.Properties.Resources.resources
+C:\Users\Аделина\source\repos\labss\obj\Debug\labss.csproj.GenerateResource.cache
+C:\Users\Аделина\source\repos\labss\obj\Debug\labss.csproj.CoreCompileInputs.cache
+C:\Users\Аделина\source\repos\labss\obj\Debug\labss.exe
+C:\Users\Аделина\source\repos\labss\obj\Debug\labss.pdb
